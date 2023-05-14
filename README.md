@@ -5,7 +5,7 @@
 
 
 
-![WechatIMG35](/Users/qianlingya/Documents/workcode/writing-umi3-plugin/WechatIMG35.jpeg)
+![WechatIMG35]([/Users/qianlingya/Documents/workcode/writing-umi3-plugin/WechatIMG35.jpeg](https://github.com/hualigushi/writing-umi3-plugin/blob/main/WechatIMG35.jpeg))
 
 
 
